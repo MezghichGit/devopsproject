@@ -8,6 +8,7 @@ public class DevopsGkApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Hello GK");
+		System.out.println("Un premier code de amine");
 		SpringApplication.run(DevopsGkApplication.class, args);
 	}
 
